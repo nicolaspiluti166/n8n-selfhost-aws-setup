@@ -3,7 +3,7 @@
 # ---------------------
 # Configuration
 # ---------------------
-DOMAIN="n8n.piluttidigital.com"
+DOMAIN="n8n.piluttidigital.com.br"
 USERNAME="admin"
 PASSWORD="Nicolas166@_"
 TIMEZONE="America/Sao_Paulo"
